@@ -1,0 +1,41 @@
+#queremos ver todo lo trabajado historicamente
+git log --all
+
+#queremos ver todo lo trabajado mas unas rayitas de como se ven las ramas (branches)
+
+$git log --all --graph
+
+
+#muestra toda la historia de mi proyecto desde que arranco.
+
+$ git log --all --graph --decorate --oneline
+
+#Podemos poner Alias a un comando
+
+$alias arbolito="comando"
+$alias arbolito="$ git log --all --graph --decorate --oneline"
+
+Cuando escriba
+$arbolito
+#Y me muestra mi comando guardado
+
+Tener en cuenta cada programador tiene sus propios aliaces :D 
+
+
+
+
+#TAGS
+
+#La forma en la que se crea un tag es la siguiente.
+# 1ero copias en Hash de tu comit, (la versiòn corta amarilla (como un codigito))
+
+
+Ejemplo:
+
+1a837b1 ---> es un hash del commit
+  
+| * 1a837b1 En Cabecera
+* | d154d39 Agregado el contenido adicional y una mejor 
+tipografia
+|/
+:

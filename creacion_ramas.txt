@@ -1,0 +1,16 @@
+#recuerda hacer la rama desde la version mas reciente:
+
+$git checkout master
+
+#creo ramas con lo siguiente:
+
+$git branch header
+
+$git branch fooder
+
+#Lo siguiente envía mis ramas a mi git hub.
+
+$git push origin header
+
+$git push origin fooder
+
