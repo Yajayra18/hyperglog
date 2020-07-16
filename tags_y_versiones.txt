@@ -27,10 +27,9 @@ Tener en cuenta cada programador tiene sus propios aliaces :D
 #TAGS
 
 #La forma en la que se crea un tag es la siguiente.
-# 1ero copias en Hash de tu comit, (la versiòn corta amarilla (como un codigito))
+# 1ero copias en Hash de tu commit, (la versiòn corta amarilla (como un codigito))
 
-
-Ejemplo:
+Notita:
 
 1a837b1 ---> es un hash del commit
   
@@ -39,3 +38,33 @@ Ejemplo:
 tipografia
 |/
 :
+
+# git tag -a v0.1 -m "Resultados de las primeras clases del curso" 1a837b1
+
+Nota:
+#para mostrar la lista de todos los TAGS
+$git tag
+
+
+#La forma de saber a que commit esta el tag es:
+
+$git show-ref --tag 
+
+#Al hacerlo va a mostar el numero exacto del commit.
+
+
+
+#Nota importante el tag se sube al github de forma distinta. 
+
+#Siempre hacer git pull origin master
+#Enviar el tag 
+$git push origin --tags
+
+
+#La forma de borrar un tag es:
+$git tag -d dormido
+#Con esto ya está guardado 
+
+
+#para borrarlo del github
+$git push origin :refs/tags/dormido
