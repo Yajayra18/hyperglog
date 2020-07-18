@@ -1,0 +1,27 @@
+#Primero tienes que estar en el master, o mejor dicho desde la version mas resiente.
+
+$git checkout master
+
+#ver las ramas
+$git banch
+
+#Crear una rama
+$git banch "nombre que le quiero poner a la rama"
+
+$git origin "nombre de la rama"
+
+Ejm. 
+$ git branch header
+$ git branch footer
+
+$ git branch
+  cabecera
+  footer
+  header
+* master
+
+Para subirlo al github :
+$ git push origin header
+$ git push origin footer
+
+

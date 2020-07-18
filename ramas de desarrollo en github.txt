@@ -1,0 +1,24 @@
+Recordando
+#Cambiar el head a cada rama
+$ git checkout "el nombre de la rama"
+$ git checkout cabecera
+
+#Git branch, me muestran todas las ramas que en este momento existen
+$gitbrhan
+
+#Muestra las ramas que existen y su historia 
+$git show-branch
+
+#Historia mas detallada
+$ git show-branch --all
+
+#Abre software, que se parece al git graph
+
+$gitk
+
+
+##Ahora vamos a enviar la rama cabecera al github 
+1ero siempr es ehace:
+$git pull origin
+
+$git push origin cabecera
