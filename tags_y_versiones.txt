@@ -12,7 +12,7 @@ $ git log --all --graph --decorate --oneline
 
 #Podemos poner Alias a un comando
 
-$alias arbolito="comando"
+$aliasq arbolito="comando"
 $alias arbolito="$ git log --all --graph --decorate --oneline"
 
 Cuando escriba
