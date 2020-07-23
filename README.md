@@ -1,9 +1,9 @@
-#Hyberblog🤗
+# Hyberblog🤗
 
 Un blog increible para el curso de Git y Github de Platzi.
 >El curso de Git y Github de platzi me hacia falta para lanzarme a la industria del desarrolo web.
 
-En este curso vemos de todo:
+## En este curso vemos de todo:
 
 - Todos los comandos de Git.
 - El flujo de trabajo en Github.
