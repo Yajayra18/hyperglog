@@ -12,4 +12,5 @@ Un blog increible para el curso de Git y Github de Platzi.
 - Creado por Yaja
 - Incluye Ejemplos impartidos por platzi
 
+
 Y como un amable recordatorio **Este readme.md es un borrador**. 
