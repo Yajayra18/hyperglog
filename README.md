@@ -10,5 +10,6 @@ Un blog increible para el curso de Git y Github de Platzi.
 - El verdadero amor por las buenas prácticas.
 - Y sobre todo borradores para desarrollar mi aprendizaje en Github.
 - Creado por Yaja
+- Incluye Ejemplos impartidos por platzi
 
 Y como un amable recordatorio **Este readme.md es un borrador**. 
