@@ -9,5 +9,10 @@ Un blog increible para el curso de Git y Github de Platzi.
 - El flujo de trabajo en Github.
 - El verdadero amor por las buenas prácticas.
 - Y sobre todo borradores para desarrollar mi aprendizaje en Github.
+<<<<<<< HEAD
+=======
+- Creado por Yaja
+- Incluye Ejemplos impartidos por platzi
+>>>>>>> d2ffb30... incluye ejemplos
 
 Y como un amable recordatorio **Este readme.md es un borrador**. 
